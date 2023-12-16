@@ -57,7 +57,7 @@ I Will Prefer You Should create virtual environment and to all installations as 
 
 
 ## Don't Go With Accuracy The Every Model Got Because Of the Size Of The Dataset We are Considered and the number of classification classes the model got lower accuracy 
-## That is Model Trying To Overfit The Data You Can Go With Larger Dataset having Good amount of data 
+## That is Model Trying To Overfit The Data You Can Go With Larger Dataset having Good amount of data and if you want to learn how to deal with overfitting refer my updated Neural Model 
 ## In This model building phase i have just skipped some preprocessing steps because i got familiar with the dataset and dataset does not have that much amount of data 
 ## Also Dataset Is Normal and each class having same amount of data but when you are want to go with same model different dataset you must do Data Preprocessing
  

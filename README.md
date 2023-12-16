@@ -53,6 +53,7 @@ I Will Prefer You Should create virtual environment and to all installations as 
 
 
 ## For Project Evalution Consider Neural Network Model .
+## Neural Netwoek Model also updated where You can see how to deal with small data and deal with overfitting 
 ## You can Tune models Hyperparameter as I have seen neuron in Hidden layers keep as 64(as you want) in each layer or same sized neuron that we insure that don't loss of any information as size of the dataset is small you can Try It Gives Good Results
 
 ## Don't Go With Accuracy The Every Model Got Because Of the Size Of The Dataset We are Considered and the number of classification classes the model got lower accuracy 
